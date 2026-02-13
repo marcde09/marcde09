@@ -1,16 +1,24 @@
-## Hi there 👋
+🚀SAP Integration Developer
 
-<!--
-**marcde09/marcde09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi repositorio! Soy un consultor especializado en la integración de procesos y sistemas dentro del ecosistema SAP BTP. Mi enfoque principal es diseñar y desarrollar soluciones conectadas, escalables y eficientes que permitan la comunicación fluida entre aplicaciones SAP y no-SAP.
 
-Here are some ideas to get you started:
+📜 Certificaciones Oficiales
+SAP Certified Associate – Integration Developer: Validación oficial de habilidades en el diseño, desarrollo y gestión de escenarios de integración utilizando SAP Integration Suite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologías y Herramientas
+SAP Integration Suite (Cloud Integration / CPI)
+Desarrollo de iFlows: Diseño de flujos de integración de extremo a extremo (A2A y B2B).
+
+Adaptadores: Configuración avanzada de protocolos (OData, SOAP, IDOC, HTTP, SFTP, RFC).
+
+Mapeos: Implementación de transformaciones mediante Graphical Mapping, XSLT y Groovy Scripts.
+
+Seguridad: Gestión de autenticación basada en certificados, OAuth2 y manejo de credenciales en el Security Material.
+
+Gestión de APIs y Eventos
+SAP API Management: Exposición, protección y monitoreo de APIs mediante políticas de seguridad y tráfico.
+
+
+💡 Metodologías y Buenas Prácticas
+Manejo de Errores: Implementación de subprocesos de excepción y alertas personalizadas.
+
